@@ -1,0 +1,22 @@
+# main links links
+main:
+  - title: "Bio"
+    url: https://psesh.github.io
+
+  - title: "Publications"
+    url: https://psesh.github.io/papers.html
+  
+  - title: "Projects"
+    url: https://psesh.github.io/projects.html
+
+  - title: "The Lab"
+    url: https://psesh.github.io/lab.html
+
+  - title: "Talks"
+    url: https://psesh.github.io/talks.html
+
+  - title: "CV"
+    url: https://raw.githubusercontent.com/psesh/psesh.github.io/master/docs/vita.pdf
+
+  - title: "Education"
+    url: https://psesh.github.io/education.html
