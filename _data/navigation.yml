@@ -1,22 +1,22 @@
 # main links links
 main:
   - title: "Bio"
-    url: https://psesh.github.io
+    url: https://pranavtifr.github.io
 
   - title: "Publications"
-    url: https://psesh.github.io/papers.html
+    url: https://pranavtifr.github.io/papers.html
   
   - title: "Projects"
-    url: https://psesh.github.io/projects.html
+    url: https://pranavtifr.github.io/projects.html
 
   - title: "The Lab"
-    url: https://psesh.github.io/lab.html
+    url: https://pranavtifr.github.io/lab.html
 
   - title: "Talks"
-    url: https://psesh.github.io/talks.html
+    url: https://pranavtifr.github.io/talks.html
 
   - title: "CV"
-    url: https://raw.githubusercontent.com/psesh/psesh.github.io/master/docs/vita.pdf
+    url: https://raw.githubusercontent.com/pranavtifr/pranavtifr.github.io/master/docs/vita.pdf
 
   - title: "Education"
-    url: https://psesh.github.io/education.html
+    url: https://pranavtifr.github.io/education.html

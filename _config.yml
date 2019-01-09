@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Pranay Seshadri"
+title                    : "Pranav S"
 title_separator          : ": "
-name                     : "Pranay Seshadri"
-description              : "The personal website of Pranay Seshadri."
+name                     : "Pranav S"
+description              : "The personal website of Pranav S"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -77,11 +77,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Pranay Seshadri"
+  name             : "Pranav S"
   avatar           : "image001.jpg"
-  bio              : "Aerospace Computational Research Scientist"
-  location         : "London, U. K."
-  email            : "ps583@cam.ac.uk"
+  bio              : "Theoretical Physicist"
+  location         : "Mumbai, India"
+  email            : "pranav.s@tifr.res.in"
   uri              :
   bitbucket        :
   codepen          :
@@ -89,7 +89,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "psesh"
+  github           : "pranavtifr"
   google_plus      :
   keybase          :
   instagram        :
