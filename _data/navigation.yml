@@ -9,9 +9,6 @@ main:
   - title: "Projects"
     url: https://pranavtifr.github.io/projects.html
 
-  - title: "The Lab"
-    url: https://pranavtifr.github.io/lab.html
-
   - title: "Talks"
     url: https://pranavtifr.github.io/talks.html
 
@@ -20,3 +17,6 @@ main:
 
   - title: "Education"
     url: https://pranavtifr.github.io/education.html
+
+  - title: "The Lab"
+    url: https://pranavtifr.github.io/lab.html

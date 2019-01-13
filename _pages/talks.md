@@ -5,4 +5,4 @@ excerpt: "List of academic talks and posters"
 sitemap: true
 permalink: /talks.html
 ---
-- IIT Bombay "Neural Networks"
+- "Neural Networks and Deep learning" Mumbai- Pune Collider Meet
