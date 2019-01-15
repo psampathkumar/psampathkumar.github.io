@@ -10,8 +10,12 @@ Technical Skills
 
   --------------------------- -----------------------------------------------------------
   **Programming Languages**   C, C++, Python, Bash Script
+
   **Softwares**               Mathematica
+
   **Cpp-Libraries**           ROOT, Pythia, FastJet, CUDA, OpenACC(Directives), OpenMPI
+
   **Python-Libraries**        Tensorflow, PyFITS, HealPy, Matplotlib, NumPy
+
   --------------------------- -----------------------------------------------------------
 
