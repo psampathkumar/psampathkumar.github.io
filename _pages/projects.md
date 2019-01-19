@@ -49,7 +49,7 @@ Past Research Projects
 
     *Supervisor: Tuhin S Roy*
 
-    *TIFR, Mumbai****Aug 2017- Jan 2018***
+    *TIFR, Mumbai* ***Aug 2017- Jan 2018***
 
     Worked on building a convolutional neural network classifier to
     classify the quark jets from the gluon jets in particle

@@ -6,8 +6,6 @@ sitemap: true
 permalink: /education.html
 ---
 
-Education
-
 **Tata Institute of Fundamental Research (TIFR), Mumbai, India**
 
 *M.Sc, Physics (Department of Theoretical Physics)*
