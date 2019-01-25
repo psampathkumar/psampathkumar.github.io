@@ -57,7 +57,7 @@ Past Research Projects
     networks and machine learning, build it using Tensorflow, make
     simulations of particle accelerators using Pythia, jet clustering
     using FastJet and understanding certain physics observables to
-    classify jets the conventional way.\
+    classify jets the conventional way.
 
 -   **Rigidity percolation in wet granular systems**
 

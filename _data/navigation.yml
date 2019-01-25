@@ -3,8 +3,8 @@ main:
   - title: "Bio"
     url: https://pranavtifr.github.io
 
-  - title: "Publications"
-    url: https://pranavtifr.github.io/papers.html
+#  - title: "Publications"
+#    url: https://pranavtifr.github.io/papers.html
   
   - title: "Projects"
     url: https://pranavtifr.github.io/projects.html

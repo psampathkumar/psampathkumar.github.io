@@ -1,5 +1,5 @@
 ---
-title: "Talks"
+title: "Conference/Talks"
 layout: single
 excerpt: "List of academic talks and posters"
 sitemap: true
@@ -26,7 +26,7 @@ Talks/Teaching
 
     *Mumbai Pune Collider Meet, IIT Bombay, Mumbai*
 
--   **Teaching Assistant for Classical Mechanics** ***Aug 2018 - Dec
+-   **Teaching Assistant for Classical Mechanics (P-103) ** ***Aug 2018 - Dec
     2018***
 
     *TIFR, Mumbai*

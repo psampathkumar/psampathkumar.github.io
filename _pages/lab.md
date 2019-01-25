@@ -1,5 +1,5 @@
 ---
-title: "The Skills"
+title: "Skills"
 layout: single
 excerpt: "Lab details"
 sitemap: true
