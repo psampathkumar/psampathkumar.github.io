@@ -7,5 +7,5 @@ author_profile: true
     Tata Institute of Fundamental Research, Mumbai, India
 
 Research Interests:
- High Energy Physics and Cosmology with emphasis on
-numerical computations and Machine Learning.
+  - Model independent analysis of various physical systems to find deviations from standard physics using anomaly detection techniques
+  - High Energy Physics and Cosmology with emphasis on numerical computations and Machine Learning.
