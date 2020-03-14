@@ -28,7 +28,7 @@ Ongoing Research Projects
 
     *Along with: Rishi Khatri*
 
-    *TIFR, Mumbai* ***Jan 2020- Present ***
+    *TIFR, Mumbai* ***Jan 2020- Present***
 
     We try to probe turbulence around the virgo cluster by using tSZ maps. 
     
@@ -37,7 +37,7 @@ Ongoing Research Projects
 
     *Along with: Rishi Khatri*
 
-    *TIFR, Mumbai* ***Feb 2019- Present ***
+    *TIFR, Mumbai* ***Feb 2019- Present***
 
     This work was part of my master's thesis during my time at TIFR. This work involves using unsupervised
     clustering techniques to perform component seperation on Planck skymaps to extract tSZ maps.
