@@ -12,11 +12,15 @@ main:
   - title: "Talks"
     url: https://pranavtifr.github.io/talks.html
 
-  - title: "CV"
-    url: https://raw.githubusercontent.com/pranavtifr/pranavtifr.github.io/master/docs/vita.pdf
-
   - title: "Education"
     url: https://pranavtifr.github.io/education.html
 
   - title: "Skills"
     url: https://pranavtifr.github.io/lab.html
+
+  - title: "Downloads"
+    subfolderitems:
+      - title: "CV"
+        url: https://raw.githubusercontent.com/pranavtifr/pranavtifr.github.io/master/docs/vita.pdf
+      - title: "Thesis Synopsis"
+        url: https://raw.githubusercontent.com/pranavtifr/pranavtifr.github.io/master/docs/thesis.pdf

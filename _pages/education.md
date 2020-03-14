@@ -10,7 +10,7 @@ permalink: /education.html
 
 *M.Sc, Physics (Department of Theoretical Physics)*
 
-CPI: 73.7/100 (Presently)
+CPI: 73.7/100
 
 
 
