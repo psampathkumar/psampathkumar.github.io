@@ -8,3 +8,4 @@ permalink: /downloads.html
 
 - [My CV](https://raw.githubusercontent.com/pranavtifr/pranavtifr.github.io/master/docs/vita.pdf)
 - [My Thesis Synopsis](https://raw.githubusercontent.com/pranavtifr/pranavtifr.github.io/master/docs/thesis.pdf)
+- [My Thesis](https://raw.githubusercontent.com/pranavtifr/pranavtifr.github.io/master/docs/thesis-full.pdf)
