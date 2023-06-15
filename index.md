@@ -4,19 +4,17 @@ layout: single
 author_profile: true
 ---
 Hi, I am Pranav Sampathkumar from Chennai, India.
-I am currently a visitor at Department of Theoretical Physics, Tata Institute of Fundamental Research, Mumbai, India
+I am currently a Doctoral Candidate in the Institute for Astroparticle Physics, Karlsruhe Institute for Technology, Karlsruhe, Germany. 
 
 After majoring in Mechanical Engineering for my undergraduate programme, I decided to pursue a career in fundamental Physics.
 During my undergrads, I caught up on undergraduate physics, and formally started pursuing a Masters in Physics at TIFR, since Autumn 2016.
 
 ## Research Interests:
+  - Interpretable Neural Networks for Generative Modelling of Physical Systems
   - Model independent analysis of various physical systems to find deviations from standard physics using anomaly detection techniques
   - High Energy Physics and Cosmology with emphasis on numerical computations and Machine Learning.
 
 ## Other Interests:
-  In my spare time, I like doing various online courses to learn indepth about various fields, which aren't part of my primary research interests.
-  These include Computer Science Theory, Philosophy, Linguistics, Human Behavioral Biology, History and Storytelling.
-  Apart form these, I like to dabble in Procedural World Generation, 3D Modelling, Writing, Linux Configuration, Customising emacs.
-  I am really interesed in fantasical worlds, I read a lot of books and manga of this genere. I hope to write a science fiction/ fantasy book some day.
+  - I am interested in Programming in general. I am involved in the development of [freeciv21](https://github.com/longturn/freeciv21). Apart from that, My interests range from History, Procedural Generation and World building. 
 
-Last Updated : 14th March 2020.
+Last Updated : 23rd June 2023.
